@@ -1,6 +1,6 @@
 # madgraph-time
 
-User docker container: [hfukuda/madgraph](https://hub.docker.com/r/hfukuda/madgraph).
+Use docker container: [hfukuda/madgraph](https://hub.docker.com/r/hfukuda/madgraph).
 
 To recreate the `ppTOgg_13TeV` directory:
 ```bash
